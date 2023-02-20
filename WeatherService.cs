@@ -8,7 +8,6 @@ public static class WeatherService
 {
     private const string _OpenWeatherApiUrl = "http://api.openweathermap.org/data/2.5/weather";
 
-
     /// <summary>
     /// Retrieves weather information for a specified city as default JSON format from the OpenWeather API and returns it as a OpenWeatherData object.
     /// </summary>
